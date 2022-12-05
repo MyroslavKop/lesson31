@@ -1,5 +1,5 @@
-import Title from "./components/Title";
-import ImagesList from "./components/ImageList";
+import Title from "components/Title";
+import ImagesList from "components/ImageList";
 
 function App() {
   return (
